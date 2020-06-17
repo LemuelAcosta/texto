@@ -1,0 +1,13 @@
+C:\Users\Zoraida\source\repos\Carac\Carac\bin\Debug\netcoreapp3.1\Carac.exe
+C:\Users\Zoraida\source\repos\Carac\Carac\bin\Debug\netcoreapp3.1\Carac.deps.json
+C:\Users\Zoraida\source\repos\Carac\Carac\bin\Debug\netcoreapp3.1\Carac.runtimeconfig.json
+C:\Users\Zoraida\source\repos\Carac\Carac\bin\Debug\netcoreapp3.1\Carac.runtimeconfig.dev.json
+C:\Users\Zoraida\source\repos\Carac\Carac\bin\Debug\netcoreapp3.1\Carac.dll
+C:\Users\Zoraida\source\repos\Carac\Carac\bin\Debug\netcoreapp3.1\Carac.pdb
+C:\Users\Zoraida\source\repos\Carac\Carac\obj\Debug\netcoreapp3.1\Carac.csprojAssemblyReference.cache
+C:\Users\Zoraida\source\repos\Carac\Carac\obj\Debug\netcoreapp3.1\Carac.csproj.CoreCompileInputs.cache
+C:\Users\Zoraida\source\repos\Carac\Carac\obj\Debug\netcoreapp3.1\Carac.AssemblyInfoInputs.cache
+C:\Users\Zoraida\source\repos\Carac\Carac\obj\Debug\netcoreapp3.1\Carac.AssemblyInfo.cs
+C:\Users\Zoraida\source\repos\Carac\Carac\obj\Debug\netcoreapp3.1\Carac.dll
+C:\Users\Zoraida\source\repos\Carac\Carac\obj\Debug\netcoreapp3.1\Carac.pdb
+C:\Users\Zoraida\source\repos\Carac\Carac\obj\Debug\netcoreapp3.1\Carac.genruntimeconfig.cache
